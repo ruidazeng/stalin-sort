@@ -1,3 +1,5 @@
+>**If you have any questions regarding this repository, please contact Ruida Zeng at ruida dot zeng at vanderbilt dot edu**
+
 # Stalin Sort
 
 ![Reddit StalinSort](https://i.redd.it/x9triplll1v11.jpg)
